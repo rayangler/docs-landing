@@ -30,7 +30,7 @@ Welcome to the MongoDB Documentation
    visualize data, and build applications on the MongoDB data platform???!!!
    Testing client credentials with Gatsby Cloud IP address. DOP-3951. Change 2. 
    Change 3. Change 4 - No Gatsby site. Change 5 - I hope this errors. Change 6 - I hope this doesn't error.
-   Change 7 - Okay, now don't throw.
+   Change 7 - Okay, now don't throw. Change 8 - Standard link.
 
 .. image:: /images/homepage-hero.svg
    :class: hero-img
