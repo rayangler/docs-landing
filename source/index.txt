@@ -28,7 +28,7 @@ Welcome to the MongoDB Documentation
 
    Find the guides, samples, and references you need to use the database,
    visualize data, and build applications on the MongoDB data platform???!!!
-   Testing client credentials with Gatsby Cloud IP address. Change 1 for DOP-3973.
+   Testing client credentials with Gatsby Cloud IP address. Change 1 for DOP-3973. Change 2.
 
 .. image:: /images/homepage-hero.svg
    :class: hero-img
