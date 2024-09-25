@@ -1,0 +1,107 @@
+:orphan:
+:tabs-selector-position: main
+
+.. contents:: On this page
+   :depth: 2
+
+=============================
+Test Page for Method Selector
+=============================
+
+.. default-domain:: mongodb
+
+.. method-selector::
+
+   .. method-option::
+      :id: driver
+
+      .. method-description::
+
+         This is an optional description. Learn more about drivers at `MongoDB Documentation <https://www.mongodb.com/docs/drivers/>`__.
+      
+         .. tabs-selector:: drivers
+
+      This is content in the Driver method haha.
+
+      .. collapsible::
+         :heading: Testing collapsible
+         :sub_heading: This is a sub heading
+
+         .. tabs-drivers::
+
+            .. tab::
+               :tabid: nodejs
+
+               Content in Driver method, Node.js tab.
+
+            .. tab::
+               :tabid: c
+
+               Content in Driver method, C tab.
+         
+         This is the end of the collapsible.
+
+         Nested Heading
+         --------------
+      
+      .. collapsible::
+         :heading: Testing collapsible 2
+         :sub_heading: This is a sub heading
+
+         This is collapsible 2.
+
+         Nested Heading
+         --------------
+      
+      .. collapsible::
+         :heading: Testing collapsible 3
+         :sub_heading: This is a sub heading
+
+         This is collapsible 3.
+
+   .. method-option::
+      :id: cli
+
+      .. method-description::
+
+         This is a description under the heading for cli.
+
+      .. tabs::
+         
+         .. tab:: Foo
+            :tabid: foo
+
+            This is content in tab foo.
+         
+         .. tab:: Bar
+            :tabid: bar
+
+            This is content in bar foo.
+      
+      This is content in the CLI method haha.
+
+      This is a deeper heading
+      ------------------------
+
+      Foo
+   
+   .. method-option::
+      :id: api
+
+      This is content in the API method haha.
+
+   .. method-option::
+      :id: mongosh
+
+      Foo
+
+   .. method-option::
+      :id: ui
+
+      Bar
+
+   .. method-option::
+      :id: compass
+
+      Baz
+      
